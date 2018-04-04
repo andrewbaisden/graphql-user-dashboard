@@ -1,4 +1,4 @@
-# GraphQL Music Lyric App
+# GraphQL User Dashboard App
 
 ## Prerequisite
 
